@@ -1,0 +1,4 @@
+export(
+   # misc functions to combine knitr and pandoc
+   knitpandoc, knitpandoc_pdf, knitpandoc_docx, knitpandoc_odt, multiplot
+)
