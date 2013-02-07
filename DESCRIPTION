@@ -1,0 +1,12 @@
+Package: kaRski
+Title: Selected functions for selected tasks
+Description: DEscription will follow
+             Bit later
+URL: https://github.com/muuankarski/kaRski
+Version: 0.0.1
+Maintainer: Markus Kainu <markuskainu@gmail.com>
+Author: Markus Kainu <markuskainu@gmail.com>
+Depends: R (>= 2.15.2), knitr
+Suggests: markdown
+Imports: knitr
+License: MIT
